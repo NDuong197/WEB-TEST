@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PC\\source\\repos\\GoodsManagementAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{78B267B3-5CD1-4755-B13B-1B25B4BFCC5A}|GoodsManagementMVC\\GoodsManagementMVC.csproj|c:\\users\\pc\\source\\repos\\goodsmanagementapi\\goodsmanagementmvc\\models\\goods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78B267B3-5CD1-4755-B13B-1B25B4BFCC5A}|GoodsManagementMVC\\GoodsManagementMVC.csproj|solutionrelative:goodsmanagementmvc\\models\\goods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78B267B3-5CD1-4755-B13B-1B25B4BFCC5A}|GoodsManagementMVC\\GoodsManagementMVC.csproj|c:\\users\\pc\\source\\repos\\goodsmanagementapi\\goodsmanagementmvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{78B267B3-5CD1-4755-B13B-1B25B4BFCC5A}|GoodsManagementMVC\\GoodsManagementMVC.csproj|solutionrelative:goodsmanagementmvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78B267B3-5CD1-4755-B13B-1B25B4BFCC5A}|GoodsManagementMVC\\GoodsManagementMVC.csproj|c:\\users\\pc\\source\\repos\\goodsmanagementapi\\goodsmanagementmvc\\views\\goods\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{78B267B3-5CD1-4755-B13B-1B25B4BFCC5A}|GoodsManagementMVC\\GoodsManagementMVC.csproj|solutionrelative:goodsmanagementmvc\\views\\goods\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78B267B3-5CD1-4755-B13B-1B25B4BFCC5A}|GoodsManagementMVC\\GoodsManagementMVC.csproj|c:\\users\\pc\\source\\repos\\goodsmanagementapi\\goodsmanagementmvc\\controllers\\goodscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78B267B3-5CD1-4755-B13B-1B25B4BFCC5A}|GoodsManagementMVC\\GoodsManagementMVC.csproj|solutionrelative:goodsmanagementmvc\\controllers\\goodscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78B267B3-5CD1-4755-B13B-1B25B4BFCC5A}|GoodsManagementMVC\\GoodsManagementMVC.csproj|c:\\users\\pc\\source\\repos\\goodsmanagementapi\\goodsmanagementmvc\\views\\goods\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{78B267B3-5CD1-4755-B13B-1B25B4BFCC5A}|GoodsManagementMVC\\GoodsManagementMVC.csproj|solutionrelative:goodsmanagementmvc\\views\\goods\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78B267B3-5CD1-4755-B13B-1B25B4BFCC5A}|GoodsManagementMVC\\GoodsManagementMVC.csproj|c:\\users\\pc\\source\\repos\\goodsmanagementapi\\goodsmanagementmvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78B267B3-5CD1-4755-B13B-1B25B4BFCC5A}|GoodsManagementMVC\\GoodsManagementMVC.csproj|solutionrelative:goodsmanagementmvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78B267B3-5CD1-4755-B13B-1B25B4BFCC5A}|GoodsManagementMVC\\GoodsManagementMVC.csproj|c:\\users\\pc\\source\\repos\\goodsmanagementapi\\goodsmanagementmvc\\views\\goods\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{78B267B3-5CD1-4755-B13B-1B25B4BFCC5A}|GoodsManagementMVC\\GoodsManagementMVC.csproj|solutionrelative:goodsmanagementmvc\\views\\goods\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78B267B3-5CD1-4755-B13B-1B25B4BFCC5A}|GoodsManagementMVC\\GoodsManagementMVC.csproj|c:\\users\\pc\\source\\repos\\goodsmanagementapi\\goodsmanagementmvc\\views\\goods\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{78B267B3-5CD1-4755-B13B-1B25B4BFCC5A}|GoodsManagementMVC\\GoodsManagementMVC.csproj|solutionrelative:goodsmanagementmvc\\views\\goods\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Goods.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\GoodsManagementAPI\\GoodsManagementMVC\\Models\\Goods.cs",
+              "RelativeDocumentMoniker": "GoodsManagementMVC\\Models\\Goods.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\GoodsManagementAPI\\GoodsManagementMVC\\Models\\Goods.cs",
+              "RelativeToolTip": "GoodsManagementMVC\\Models\\Goods.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T18:33:29.827Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\GoodsManagementAPI\\GoodsManagementMVC\\Views\\Goods\\edit.cshtml",
+              "RelativeDocumentMoniker": "GoodsManagementMVC\\Views\\Goods\\edit.cshtml",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\GoodsManagementAPI\\GoodsManagementMVC\\Views\\Goods\\edit.cshtml",
+              "RelativeToolTip": "GoodsManagementMVC\\Views\\Goods\\edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-07T18:32:12.905Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\GoodsManagementAPI\\GoodsManagementMVC\\Views\\Goods\\delete.cshtml",
+              "RelativeDocumentMoniker": "GoodsManagementMVC\\Views\\Goods\\delete.cshtml",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\GoodsManagementAPI\\GoodsManagementMVC\\Views\\Goods\\delete.cshtml",
+              "RelativeToolTip": "GoodsManagementMVC\\Views\\Goods\\delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-07T18:31:47.327Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\GoodsManagementAPI\\GoodsManagementMVC\\Program.cs",
+              "RelativeDocumentMoniker": "GoodsManagementMVC\\Program.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\GoodsManagementAPI\\GoodsManagementMVC\\Program.cs",
+              "RelativeToolTip": "GoodsManagementMVC\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T18:29:01.045Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "create.cshtml",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\GoodsManagementAPI\\GoodsManagementMVC\\Views\\Goods\\create.cshtml",
+              "RelativeDocumentMoniker": "GoodsManagementMVC\\Views\\Goods\\create.cshtml",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\GoodsManagementAPI\\GoodsManagementMVC\\Views\\Goods\\create.cshtml",
+              "RelativeToolTip": "GoodsManagementMVC\\Views\\Goods\\create.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAACkAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-07T18:27:37.349Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GoodsController.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\GoodsManagementAPI\\GoodsManagementMVC\\Controllers\\GoodsController.cs",
+              "RelativeDocumentMoniker": "GoodsManagementMVC\\Controllers\\GoodsController.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\GoodsManagementAPI\\GoodsManagementMVC\\Controllers\\GoodsController.cs",
+              "RelativeToolTip": "GoodsManagementMVC\\Controllers\\GoodsController.cs",
+              "ViewState": "AgIAAJUAAAAAAAAAAAAAwA4AAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T18:27:08.891Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "index.cshtml",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\GoodsManagementAPI\\GoodsManagementMVC\\Views\\Goods\\index.cshtml",
+              "RelativeDocumentMoniker": "GoodsManagementMVC\\Views\\Goods\\index.cshtml",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\GoodsManagementAPI\\GoodsManagementMVC\\Views\\Goods\\index.cshtml",
+              "RelativeToolTip": "GoodsManagementMVC\\Views\\Goods\\index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADAAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-07T18:26:33.352Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\GoodsManagementAPI\\GoodsManagementMVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "GoodsManagementMVC\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\GoodsManagementAPI\\GoodsManagementMVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "GoodsManagementMVC\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-07T18:23:56.3Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

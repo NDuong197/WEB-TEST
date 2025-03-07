@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35303.130
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GoodsManagementAPI", "GoodsManagementAPI\GoodsManagementAPI.csproj", "{5C2703B0-24DD-4830-853F-90207B9B5690}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GoodsManagementMVC", "GoodsManagementMVC\GoodsManagementMVC.csproj", "{78B267B3-5CD1-4755-B13B-1B25B4BFCC5A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5C2703B0-24DD-4830-853F-90207B9B5690}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C2703B0-24DD-4830-853F-90207B9B5690}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C2703B0-24DD-4830-853F-90207B9B5690}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C2703B0-24DD-4830-853F-90207B9B5690}.Release|Any CPU.Build.0 = Release|Any CPU
+		{78B267B3-5CD1-4755-B13B-1B25B4BFCC5A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{78B267B3-5CD1-4755-B13B-1B25B4BFCC5A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{78B267B3-5CD1-4755-B13B-1B25B4BFCC5A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{78B267B3-5CD1-4755-B13B-1B25B4BFCC5A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2884AE76-8E6C-4A5B-AA51-BE0560F7F0CD}
+	EndGlobalSection
+EndGlobal

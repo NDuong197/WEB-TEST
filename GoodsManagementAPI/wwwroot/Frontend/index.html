@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Quản lý hàng hóa</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <h1>Quản lý hàng hóa</h1>
+
+    <!-- Form thêm/sửa hàng hóa -->
+    <div>
+        <h2>Thêm hoặc sửa hàng hóa</h2>
+        <input type="text" id="ma_hanghoa" placeholder="Mã hàng hóa (để sửa/xóa)">
+        <input type="text" id="ten_hanghoa" placeholder="Tên hàng hóa">
+        <input type="number" id="so_luong" placeholder="Số lượng">
+        <input type="text" id="ghi_chu" placeholder="Ghi chú">
+        <button onclick="createOrUpdateGood()">Thêm/Sửa</button>
+        <button onclick="deleteGood()">Xóa</button>
+    </div>
+
+    <!-- Danh sách hàng hóa -->
+    <h2>Danh sách hàng hóa</h2>
+    <ul id="goods-list"></ul>
+
+    <script src="script.js"></script>
+</body>
+</html>

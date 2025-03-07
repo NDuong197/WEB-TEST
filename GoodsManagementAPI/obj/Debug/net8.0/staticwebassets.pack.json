@@ -1,0 +1,33 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\PC\\source\\repos\\GoodsManagementAPI\\GoodsManagementAPI\\wwwroot\\Frontend\\index.html",
+      "PackagePath": "staticwebassets\\Frontend\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\PC\\source\\repos\\GoodsManagementAPI\\GoodsManagementAPI\\wwwroot\\Frontend\\script.js",
+      "PackagePath": "staticwebassets\\Frontend\\script.js"
+    },
+    {
+      "Id": "C:\\Users\\PC\\source\\repos\\GoodsManagementAPI\\GoodsManagementAPI\\wwwroot\\Frontend\\styles.css",
+      "PackagePath": "staticwebassets\\Frontend\\styles.css"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.GoodsManagementAPI.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.GoodsManagementAPI.props",
+      "PackagePath": "build\\GoodsManagementAPI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.GoodsManagementAPI.props",
+      "PackagePath": "buildMultiTargeting\\GoodsManagementAPI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.GoodsManagementAPI.props",
+      "PackagePath": "buildTransitive\\GoodsManagementAPI.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
